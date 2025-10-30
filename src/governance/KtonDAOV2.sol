@@ -8,7 +8,7 @@ import "@openzeppelin/contracts-upgradeable/governance/extensions/GovernorVotesU
 import "@openzeppelin/contracts-upgradeable/governance/extensions/GovernorTimelockControlUpgradeable.sol";
 import "@openzeppelin/contracts-upgradeable/proxy/utils/Initializable.sol";
 
-contract KtonDAO is
+contract KtonDAOV2 is
     Initializable,
     GovernorUpgradeable,
     GovernorSettingsUpgradeable,
