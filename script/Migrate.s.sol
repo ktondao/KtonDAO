@@ -14,7 +14,7 @@ contract MigrateScript is Script {
     function run() public {
         vm.startBroadcast();
 
-		// new KtonDAOVaultV2();
+        // new KtonDAOVaultV2();
         Core.upgradeProxyTo(vault, 0x8Dc2A9969252380f3a1725bfc6601E061cf2551f, "");
 
         vm.stopBroadcast();
