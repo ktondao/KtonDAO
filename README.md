@@ -1,6 +1,19 @@
 # KtonDAO 
 
 ## Addresses
+
+### Ethereum mainnet (chain ID 1)
+
+| Contract | Address |
+|----------|---------|
+| KTON (underlying token) | [0x9F284E1337A815fe77D2Ff4aE46544645B20c5ff](https://etherscan.io/address/0x9F284E1337A815fe77D2Ff4aE46544645B20c5ff) |
+| gKTON | [0xc75c2EC60Bf276B8C0A5Af129114E344bBd93f14](https://etherscan.io/address/0xc75c2EC60Bf276B8C0A5Af129114E344bBd93f14) |
+| KtonDAOV3 (proxy) | [0x86EEaa7c5327809c47a35792eAd86feA311194F5](https://etherscan.io/address/0x86EEaa7c5327809c47a35792eAd86feA311194F5) |
+| KtonDAOV3 (implementation) | [0x704B83AaABAed7F85375547F15eCA8F3B3ac893c](https://etherscan.io/address/0x704B83AaABAed7F85375547F15eCA8F3B3ac893c) |
+| Timelock | [0xEE25d900b1cF9f261Bba614695fb6e987d1bc6A2](https://etherscan.io/address/0xEE25d900b1cF9f261Bba614695fb6e987d1bc6A2) |
+
+### Legacy cross-chain deployments
+
 |  Contract            | Canonical Cross-chain Deployment Address   |
 |----------------------|--------------------------------------------|
 |  KTONStakingRewards  | 0x000000000419683a1a03AbC21FC9da25fd2B4dD7 |
