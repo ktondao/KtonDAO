@@ -15,7 +15,7 @@ bytecode_hash = "ipfs"
 extra_output = ["storageLayout"]
 extra_output_files = ["metadata", "abi"]
 fs_permissions = [{ access = "read", path = "out" }]
-eth_rpc_url  = "https://crab-rpc.darwinia.network"
+eth_rpc_url  = "https://eth.drpc.org"
 etherscan_api_key = "xxx"
 
 [rpc_endpoints]
